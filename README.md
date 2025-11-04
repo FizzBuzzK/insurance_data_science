@@ -1,12 +1,5 @@
 # Insurance Cost Prediction — Data Science Project
 
-## Project Overview
-This project explores the **factors influencing insurance charges** and builds **predictive models** using Python to estimate medical insurance costs based on personal and lifestyle attributes.  
-It demonstrates a **complete data science workflow** — from **data cleaning and feature encoding** to **exploratory data analysis (EDA)**, **correlation visualization**, and **predictive modeling** using **Linear Regression**, **Polynomial Regression**, and **Ridge Regression**.
-It highlights analytical, visualization, and machine learning skills for **Data Analyst**, **Machine Learning**, and **Data Science** roles.
-
----
-
 ## Visualization Preview
 
 | Visualization | Screenshot |
@@ -15,6 +8,13 @@ It highlights analytical, visualization, and machine learning skills for **Data 
 | BMI vs. Charges | ![Regression Plot](images/regplot_bmi_charges.png) |
 | Charges vs. Smoker | ![Violin Plot](images/violinplot_charges_smoker.png) |
 | Correlation | ![Heatmap Matrix](images/corr_heatmap.png) |
+
+---
+
+## Project Overview
+This project explores the **factors influencing insurance charges** and builds **predictive models** using Python to estimate medical insurance costs based on personal and lifestyle attributes.  
+It demonstrates a **complete data science workflow** — from **data cleaning and feature encoding** to **exploratory data analysis (EDA)**, **correlation visualization**, and **predictive modeling** using **Linear Regression**, **Polynomial Regression**, and **Ridge Regression**.
+It highlights analytical, visualization, and machine learning skills for **Data Analyst**, **Machine Learning**, and **Data Science** roles.
 
 ---
 
